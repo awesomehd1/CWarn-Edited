@@ -15,4 +15,4 @@ commands:
     usage: /ping ou /ping <Joueur>
   warnff:
     description: warnff
-    usage: /warnff 
+    usage: /warnff
