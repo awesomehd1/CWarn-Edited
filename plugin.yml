@@ -1,7 +1,7 @@
-name: WarnAntiCheat
-version: 1.0
+name: CWarn (A anticheat plugin)
+version: 2.0
 main: fr.thet.warn.Main
-author: theT76
+author: awesomehd1
 depend: [ProtocolLib]
 commands:
   warndeban:
